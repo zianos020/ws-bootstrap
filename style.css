@@ -1,0 +1,68 @@
+.navimg img{
+    height: 70px;
+    width: 100px;
+}
+
+.carimg{
+    margin: 4% 3%;
+}
+
+.cards {
+    margin: 2%;
+    justify-content: space-around;
+}
+
+.card img{
+height: 300px;
+}
+
+.menuh2{
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
+.contacth2{
+    font-weight: bolder;
+    letter-spacing: 5px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+span{
+    font-weight: bolder;
+    color: rgb(238, 36, 36);
+}
+
+.forum{
+    background-color: #666363;
+    border-radius: 10px;
+    padding: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    color: #fff;
+}
+
+.button{
+    margin-left: 45%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.imggg{
+    margin: 10%;
+}
+
+.card-img{
+    height: 700px !important;
+}
+
+.cardd {
+    margin-top: 20%;
+    margin-left: 2%;
+}
+
